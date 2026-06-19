@@ -6,6 +6,6 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for buildin
 
 ## 🚀 About Me
 
-- 🎓 I’m currently working with **Node, React, React Native**.
+- 🎓 I’m currently working with **AI, Python, Node, React, React Native**.
 - 💼 I’m working as a Software Engineer.
 - 🌱 I’m constantly exploring **Computer Science**.
